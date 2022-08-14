@@ -6,7 +6,7 @@
 
 ### Time taken: 3hrs
 
-### [Live Link]()
+### [Live Link](https://justice-homepage-vivekn.netlify.app/)
 
 ### QuickLook
 ![img](./QuickLook.png)
